@@ -1,2 +1,2 @@
-# exercicios-generation-lista1
-Exercícios da primeira lista Generation. Portugol.
+# generation-sequential-programming
+Exercícios da PRIMEIRA LISTA da Generation Brazil, sobre PROGRAMAÇÃO SEQUENCIAL Portugol.
